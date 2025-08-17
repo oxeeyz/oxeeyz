@@ -20,7 +20,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Razi's GitHub stats](https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=radical)
+!GIT Statss Of Oxeeey](https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raziscofield&layout=compact&theme=radical)
 
