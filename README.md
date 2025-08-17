@@ -1,6 +1,6 @@
 # Oxeeey-X-Hafeeey
-# Hey, I'm Razi 👋
-**Backend Dev | Bot Developer**
+# Yoooo : Its Oxeeey/hafeeey
+**FullstackDev Developer**
 
 ---
 
