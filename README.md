@@ -44,8 +44,7 @@
    ┣ Bot Dev       ███████████░░  90%  
    ┣ Management    ██████░░░░░░░  40%  
    ┗ Moderation    █████░░░░░░░░  30%  
-
-<img src="h6.gi:" width="30" heigcom/emojis/901890015875977216.gif" width="30" height="30" GFX  
+GFX 
    ┣ Logo Design   █████████░░░░  75%  
    ┣ Banner Design ████████░░░░░  65%  
    ┗ Editing       ██████░░░░░░░  45%
