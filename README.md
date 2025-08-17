@@ -25,12 +25,30 @@
 
 ---
 
-### 👾 Oxeeey’s Codeverse  
+📊 Me's Activity Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Oxeeyz&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxeeyz&layout=compact&theme=radical" height="180"/>
-</p>
+💻 Coding  
+   ┣ Python        ████████████░░  80%  
+   ┣ JavaScript    ███████░░░░░░  60%  
+   ┣ C++           ████░░░░░░░░░  30%  
+   ┗ TypeScript    ███░░░░░░░░░░  20%  
+
+🎮 SAMP / RP Development  
+   ┣ Mapping       █████████░░░░  70%  
+   ┣ Scripting     ███████░░░░░░  55%  
+   ┣ Admin Work    ██████░░░░░░░  45%  
+   ┗ Faction Lead  ████░░░░░░░░░  25%  
+
+⚡ Discord  
+   ┣ Dev           ██████████░░░  85%  
+   ┣ Bot Dev       ███████████░░  90%  
+   ┣ Management    ██████░░░░░░░  40%  
+   ┗ Moderation    █████░░░░░░░░  30%  
+
+🎨 GFX  
+   ┣ Logo Design   █████████░░░░  75%  
+   ┣ Banner Design ████████░░░░░  65%  
+   ┗ Editing       ██████░░░░░░░  45%
 ---
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
