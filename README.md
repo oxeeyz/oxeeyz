@@ -17,7 +17,7 @@
 
 ---
 
-### 🛠 Tech Stack  
+### 🛠 Stack 
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
