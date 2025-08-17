@@ -1,8 +1,7 @@
 <div align="center">
 
 # Hey 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=I'm+Oxeeey+🥂;Backend+Developer+%7C+Bot+Maker;Fullstack+Dev+Enthusiast)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=I'm+Oxeeey+;Backend+Developer+%7C+Bot+Maker;Fullstack+Dev+Enthusiast)](https://git.io/typing-svg)
 <img src="https://cdn.discordapp.com/emojis/1347091645279240253.gif" width="40" />
 ---
 
