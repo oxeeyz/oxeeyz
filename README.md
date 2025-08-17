@@ -26,8 +26,8 @@
 ---
 
 ### 📊 GitHub Stats  
-![Oxeeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oxeeyy&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oxeeyy&layout=compact&theme=radical)
+![Oxeeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxeeeyz&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxeeeyz&layout=compact&theme=radical)
 
 ---
 
