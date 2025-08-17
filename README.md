@@ -25,7 +25,7 @@
 
 ---
 
-<img src="https://cdn.discordapp.com/emojis/901890015875977216.gif" Me's Activity Stats  
+<img src="https://cdn.discordapp.com/emojis/901890015875977216.gif" width="30" height="30" /> Me's Activity Stats  
 
 💻 Coding  
    ┣ Python        ████████████░░  80%  
