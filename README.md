@@ -45,6 +45,7 @@
    ┣ Management    ██████░░░░░░░  40%  
    ┗ Moderation    █████░░░░░░░░  30%  
 
+<img src="16.png" width="30" height="30ojis/901890015875977216.png" width="30" height="30">
 ---
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
