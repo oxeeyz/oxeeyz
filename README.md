@@ -4,10 +4,14 @@
 ---
 
 ### 🚀 About Me
-- 15 y/o developer from Kerala, India
-- 🔨 Building bots, infra tools, and backend systems
-- 🧑‍💻 Self-taught in Node.js, Pawn, TypeScript, Python
-- 🔒 Interested in reverse engineering & buffer overflows
+- 👋 Hi, I'm **Oxeeey**, a passionate **Backend Developer & Bot Maker**  
+- 🧑‍💻 16 y/o self-taught developer from **Kerala, India**  
+- ⚡ I love building **Discord bots, automation tools, and backend systems**  
+- 🔨 Skilled in **Node.js, Python, TypeScript, PAWN**  
+- 🔐 Exploring **reverse engineering, security, and ethical hacking**  
+- 🎯 Always curious about **scripting, automation & optimization**  
+- 🌱 Currently learning **system design, advanced APIs & low-level programming**  
+- 🎵 Fun fact: I enjoy **coding while listening to music** 🎧
 
 ---
 
