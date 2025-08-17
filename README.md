@@ -31,7 +31,7 @@
 
 ---
 
-### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Connect  
+### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://yourwebsite.com)  
 [![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord)](https://discord.gg/yourinvite)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:youremail@gmail.com)  
