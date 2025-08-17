@@ -44,7 +44,8 @@
    ┣ Bot Dev       ███████████░░  90%  
    ┣ Management    ██████░░░░░░░  40%  
    ┗ Moderation    █████░░░░░░░░  30%  
-GFX 
+
+⚡ Discord  
    ┣ Logo Design   █████████░░░░  75%  
    ┣ Banner Design ████████░░░░░  65%  
    ┗ Editing       ██████░░░░░░░  45%
