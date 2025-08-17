@@ -1,4 +1,6 @@
-# Yoooo : Its Oxeeey/hafeeey
+# Hey 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&width=435&lines=Hey%2C+I'm+Oxeeey+🔥;Backend+Developer+%7C+Bot+Maker;Passionate+about+Automation+%26+Coding)](https://git.io/typing-svg)
 **FullstackDev Developer**
 
 ---
