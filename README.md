@@ -1,4 +1,4 @@
-<div align="center">
+ki<div align="center">
 
 # Hey 👋  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=I'm+Oxeeey+;Developer+%7C+Bot+Maker;Fullstack+Dev+Enthusiast)](https://git.io/typing-svg)
@@ -53,7 +53,7 @@
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
 [![Website](https://img.shields.io/badge/Website-Visit-blue?style=flat-square)](https://yourwebsite.com)  
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord)](https://discord.gg/yourinvite)  
+[![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord)](https://discord.gg/WvpDHm6WSv)  
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hafeeeiihapee@gmail.com)  
 
 </div>
