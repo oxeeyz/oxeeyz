@@ -25,10 +25,12 @@
 
 ---
 
-### 📊 GitHub Stats  
-![Oxeeey's GitHub stats](https://github-readme-stats.vercel.app/api?username=oxeeyz&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oxeeyz&layout=compact&theme=radical)
+### 👾 Oxeeey’s Codeverse  
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Oxeeyz&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxeeyz&layout=compact&theme=radical" height="180"/>
+</p>
 ---
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
