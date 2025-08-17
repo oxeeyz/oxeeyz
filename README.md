@@ -25,7 +25,7 @@
 
 ---
 
-📊 Me's Activity Stats  
+https://cdn.discordapp.com/emojis/901890015875977216.gif Me's Activity Stats  
 
 💻 Coding  
    ┣ Python        ████████████░░  80%  
