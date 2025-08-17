@@ -1,14 +1,12 @@
 <div align="center">
 
-# Hey 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=I'm+Oxeeey+🔥;Backend+Developer+%7C+Bot+Maker;Fullstack+Dev+Enthusiast)](https://git.io/typing-svg)
 
 ---
 
 ### 🚀 About Me  
 🔥 Hi, I'm **Oxeeey**, a passionate **Backend Developer & Bot Maker**  
-👨‍💻 16 y/o self-taught developer from **Kerala, India**  
-⚡ I love building **Discord bots, automation tools, and backend systems**  
+👨‍💻 15 y/o self-taught developer from **Kerala, India**  
+⚡ I love building **Discord bots, ai projects,systems.etc**  
 🔨 Skilled in **Node.js, Python, TypeScript, PAWN**  
 🔐 Exploring **reverse engineering, security, and ethical hacking**  
 ⚙️ Always curious about **scripting, automation & optimization**  
