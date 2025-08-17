@@ -44,7 +44,7 @@
    ┣ Bot Dev       ███████████░░  90%  
    ┣ Management    ██████░░░░░░░  40%  
    ┗ Moderation    █████░░░░░░░░  30%  
-img src="https://cdn.discordapp.com/emojis/901890015875977216.gif" width="30" height="30" 
+<img src="https://cdn.discordapp.com/emojis/901890015875977216.gif" width="30" height="30" 
    ┣ Logo Design   █████████░░░░  75%  
    ┣ Banner Design ████████░░░░░  65%  
    ┗ Editing       ██████░░░░░░░  45%
