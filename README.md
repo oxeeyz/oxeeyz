@@ -56,6 +56,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hafeeeiihapee@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hafeeey__)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9496702811)
+[![Discord](https://img.shields.io/badge/Discord-Message-7289da?style=flat-square&logo=discord)](https://discord.bio/p/oxeeey_z)
 ---
 
 
