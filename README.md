@@ -52,7 +52,9 @@
 ---
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
-[![Discord](https://img.shields.io/badge/Discord-Join-7289da?style=flat-square&logo=discord)](https://discord.gg/WvpDHm6WSv)  
+  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/💬 Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hafeeeiihapee@gmail.com) 
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hafeeey__)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/9496702811)
