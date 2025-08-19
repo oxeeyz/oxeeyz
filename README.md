@@ -70,7 +70,7 @@
 
   <!-- Main banner -->
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
-    <img src="https://raw.githubusercontent.com/oxeez/oxeez/main/banner.png" width="250">
+    <img src="https://raw.githubusercontent.com/oxeez/oxeeyz/main/banner.png" width="250">
   </a>
 
   <!-- Text + small image in table -->
@@ -83,7 +83,7 @@
       </td>
       <td>
         <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
-          <img src="https://raw.githubusercontent.com/oxeez/oxeez/main/banner.png" width="80">
+          <img src="https://raw.githubusercontent.com/oxeez/oxeeyz/main/banner.png" width="80">
         </a>
       </td>
     </tr>
