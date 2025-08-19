@@ -68,7 +68,7 @@
 
 
 ---
-<img src="https://cdn.discordapp.com/emojis/1350893966156894278.gif" width="40" height="40"> ### PROJECTSS
+<img src="https://cdn.discordapp.com/emojis/1350893966156894278.gif" width="40" height="40"> 𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦
 
 
   <!-- Banner (clickable) -->
