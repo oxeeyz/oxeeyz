@@ -70,6 +70,26 @@
 ---
 <div align="center">
 
+  <!-- Cyan bold underlined heading -->
+  <h2>
+    <font color="cyan"><u><b>PROJECTS</b></u></font>
+  </h2>
+
+  <!-- Banner (clickable) -->
+  <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+    <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/banner.png" width="250">
+  </a>
+
+  <!-- Red bordered text badge -->
+  <br>
+  <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+    <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
+
+</div>
+
+<div align="center">
+
   <!-- Banner (clickable) -->
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
     <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/banner.png" width="250">
