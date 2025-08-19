@@ -73,19 +73,28 @@
 
   
 
- <img src="https://cdn.discordapp.com/attachments/1406723213970505821/1407374290801917983/IMG_20250819_062815.png?ex=68a5def2&is=68a48d72&hm=d67f24b04c3c08a4bbef347450d39bfa9ac70b68a52186e67b0347696de439e9" 
-     alt="Razz Roleplay Logo" 
-     width="400"> 
-     <!-- Red bordered text badge -->
-  <br>
-  <a  target="_blank">
-    <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white">
+<!-- First banner with red badge -->
+<div style="text-align:center; position:relative; display:inline-block;">
+  <img src="https://cdn.discordapp.com/attachments/1406723213970505821/1407374290801917983/IMG_20250819_062815.png?ex=68a5def2&is=68a48d72&hm=d67f24b04c3c08a4bbef347450d39bfa9ac70b68a52186e67b0347696de439e9" 
+       alt="Razz Roleplay Logo" 
+       width="400">
+  <!-- Red badge on top -->
+  <a href="https://discord.gg/yourserver" target="_blank">
+    <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white"
+         style="position:absolute; top:10px; left:50%; transform:translateX(-50%);">
   </a>
-<img src="https://cdn.discordapp.com/attachments/1406723213970505821/1407375161224855753/file_0000000064d461f8a7b2d07ac8575028.png?ex=68a5dfc2&is=68a48e42&hm=d8d9b6b8927755ef39567e1f279fbe434aa96621759a86beb24c1fc3615f0336" 
-     alt="Image Description" 
-     width="400">
-     <!-- Gold bordered text badge -->
+</div>
+
 <br>
-<a href="https://discord.gg/t4KwV7uv" target="_blank">
-  <img src="https://img.shields.io/badge/Click_to_join_Nazha%27s_Corner-FFD700?style=for-the-badge&logo=discord&logoColor=white">
-</a>
+
+<!-- Second banner with gold badge -->
+<div style="text-align:center; position:relative; display:inline-block;">
+  <img src="https://cdn.discordapp.com/attachments/1406723213970505821/1407375161224855753/file_0000000064d461f8a7b2d07ac8575028.png?ex=68a5dfc2&is=68a48e42&hm=d8d9b6b8927755ef39567e1f279fbe434aa96621759a86beb24c1fc3615f0336" 
+       alt="Image Description" 
+       width="400">
+  <!-- Gold badge on top -->
+  <a href="https://discord.gg/t4KwV7uv" target="_blank">
+    <img src="https://img.shields.io/badge/Click_to_join_Nazha%27s_Corner-FFD700?style=for-the-badge&logo=discord&logoColor=white"
+         style="position:absolute; top:10px; left:50%; transform:translateX(-50%);">
+  </a>
+</div>
