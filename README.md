@@ -73,9 +73,10 @@
     <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/banner.png" width="250">
   </a>
 
-  <!-- Red bordered text -->
-  <p style="color:red; border:2px solid red; display:inline-block; padding:5px; margin-top:10px;">
-    <b>Click Banner To Join RazzZ Roleplay</b>
-  </p>
+  <!-- Red bordered text badge -->
+  <br>
+  <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+    <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white">
+  </a>
 
 </div>
