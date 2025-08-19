@@ -49,6 +49,7 @@
    ┣ Logo Design   █████████░░░░  75%  
    ┣ Banner Design ████████░░░░░  65%  
    ┗ Editing       ██████░░░░░░░  45%
+   
 ---
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
