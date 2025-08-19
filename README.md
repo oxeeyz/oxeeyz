@@ -67,10 +67,25 @@
 </div>
 ---
 <div align="center" style="border: 2px solid #7289DA; border-radius: 15px; padding: 20px; background-color: #23272A; display: inline-block;">
-  <a href="https://discord.gg/JjFWJqKnCG" target="_blank" style="text-decoration: none;">
-    <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png?ex=68a5bbcf&is=68a46a4f&hm=5e3df27949dac876f8a2da58f6a10067544f50efa2e3f001147eb395eb84e30f&" 
-         width="150" height="150" style="border-radius: 10px;">
-    <h2 style="color: white; margin-top: 10px;">Join RazzZ Roleplay</h2>
+  <a href="https://discord.gg/JjFWJqKnCG" target="_blank" style="text-decoration: none; color: inherit;">
+    
+    <!-- main banner -->
+    <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" 
+         width="250" height="250" style="border-radius: 10px;">
+    
+    <!-- text in red box -->
+    <div style="margin-top: 15px; background-color: red; padding: 10px 20px; border-radius: 8px; display: inline-block;">
+      <span style="color: white; font-weight: bold; font-size: 16px;">
+        Click Banner To Join RazzZ Roleplay
+      </span>
+    </div>
+    
+    <!-- small version side il -->
+    <div style="margin-top: 15px;">
+      <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" 
+           width="80" height="80" style="border-radius: 8px; margin-left: 10px;">
+    </div>
+    
   </a>
 </div>
 
