@@ -65,6 +65,6 @@
 
 
 ---
-![Alt Text](https://cdn.discordapp.com/attachments/.../image.png)
+<img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" width="100" height="100">
 
 </div>
