@@ -73,7 +73,9 @@
 
   
 
-  <!-- Red bordered text badge -->
+ <img src="https://cdn.discordapp.com/attachments/1406723213970505821/1407374290801917983/IMG_20250819_062815.png?ex=68a5def2&is=68a48d72&hm=d67f24b04c3c08a4bbef347450d39bfa9ac70b68a52186e67b0347696de439e9" 
+     alt="Razz Roleplay Logo" 
+     width="400">  <!-- Red bordered text badge -->
   <br>
   <a  target="_blank">
     <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white">
