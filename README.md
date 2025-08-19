@@ -66,26 +66,27 @@
 
 </div>
 ---
-<div align="center" style="border: 2px solid #7289DA; border-radius: 15px; padding: 20px; background-color: #23272A; display: inline-block;">
-  <a href="https://discord.gg/JjFWJqKnCG" target="_blank" style="text-decoration: none; color: inherit;">
-    
-    <!-- main banner -->
-    <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" 
-         width="250" height="250" style="border-radius: 10px;">
-    
-    <!-- text in red box -->
-    <div style="margin-top: 15px; background-color: red; padding: 10px 20px; border-radius: 8px; display: inline-block;">
-      <span style="color: white; font-weight: bold; font-size: 16px;">
-        Click Banner To Join RazzZ Roleplay
-      </span>
-    </div>
-    
-    <!-- small version side il -->
-    <div style="margin-top: 15px;">
-      <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" 
-           width="80" height="80" style="border-radius: 8px; margin-left: 10px;">
-    </div>
-    
-  </a>
-</div>
+<div align="center">
 
+  <!-- Main banner -->
+  <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+    <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" width="250">
+  </a>
+
+  <!-- Text + small image in table -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+          <b>Click Banner To Join RazzZ Roleplay</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+          <img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png" width="80">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
