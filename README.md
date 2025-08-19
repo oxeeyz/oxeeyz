@@ -68,9 +68,7 @@
 </div>
 
 ---
-<h1 align="center" style="color:cyan;">
-  <b><u>PROJECTS</u></b>
-</h1>
+<h1 align="center" PROJECTS <h1>
 
   <!-- Banner (clickable) -->
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
