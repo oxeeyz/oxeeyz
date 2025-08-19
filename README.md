@@ -66,3 +66,27 @@
 
 </div>
 ---
+<div align="center">
+
+  <!-- Main banner -->
+  <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+    <img src="https://raw.githubusercontent.com/oxeez/oxeez/main/banner.png" width="250">
+  </a>
+
+  <!-- Text + small image in table -->
+  <table>
+    <tr>
+      <td>
+        <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+          <b>Click Banner To Join RazzZ Roleplay</b>
+        </a>
+      </td>
+      <td>
+        <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
+          <img src="https://raw.githubusercontent.com/oxeez/oxeez/main/banner.png" width="80">
+        </a>
+      </td>
+    </tr>
+  </table>
+
+</div>
