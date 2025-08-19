@@ -68,7 +68,7 @@
 
 
 ---
-### PROJECTSS
+![emoji](https://cdn.discordapp.com/emojis/1350893966156894278.gif) ### PROJECTSS
 
 
   <!-- Banner (clickable) -->
