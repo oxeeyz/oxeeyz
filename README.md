@@ -66,6 +66,6 @@
 
 </div>
 ---
-<img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png?ex=68a5bbcf&is=68a46a4f&hm=5e3df27949dac876f8a2da58f6a10067544f50efa2e3f001147eb395eb84e30f&" width="150" height="150">
+<img src="https://cdn.discordapp.com/attachments/1407180109529481362/1407336562017964217/IMG_20250819_062815.png?ex=68a5bbcf&is=68a46a4f&hm=5e3df27949dac876f8a2da58f6a10067544f50efa2e3f001147eb395eb84e30f&" width="150" height="150"> 
 
 
