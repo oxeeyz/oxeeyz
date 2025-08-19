@@ -67,17 +67,14 @@
 </div>
 ---
 <div align="center">
-  <!-- Text + small image in table -->
+
   <table>
-    <tr>
-      <!-- red box -->
-      <td bgcolor="red" style="padding: 10px; border-radius: 8px;">
+    <tr bgcolor="red" align="center">
+      <td>
         <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
-          <b><font color="white">Click Banner To Join RazzZ Roleplay</font></b>
+          <font color="white"><b>Click Banner To Join RazzZ Roleplay</b></font>
         </a>
       </td>
-
-      <!-- small image -->
       <td>
         <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
           <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/banner.png" width="80">
@@ -85,4 +82,5 @@
       </td>
     </tr>
   </table>
+
 </div>
