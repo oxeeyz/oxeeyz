@@ -68,7 +68,9 @@
 </div>
 
 ---
-<span style="color:#00FFFF">This text is cyan</span>
+<h1 align="center" style="color:cyan;">
+  <b><u>PROJECTS</u></b>
+</h1>
 
   <!-- Banner (clickable) -->
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
