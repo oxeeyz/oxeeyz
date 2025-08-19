@@ -75,6 +75,10 @@
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
     <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/banner.png" width="250">
   </a>
+    <!-- Banner (clickable) -->
+<a href="https://discord.gg/t4KwV7uv" target="_blank">
+  <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/nazha.png" width="250">
+</a>
 
   <!-- Red bordered text badge -->
   <br>
@@ -86,12 +90,6 @@
 
 
   
-  
-
-  <!-- Banner (clickable) -->
-<a href="https://discord.gg/t4KwV7uv" target="_blank">
-  <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/nazha.png" width="250">
-</a>
 
 <!-- Gold bordered text badge -->
 <br>
