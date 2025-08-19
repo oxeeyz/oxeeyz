@@ -68,6 +68,9 @@
 
 
 ---
+PROJECTSS
+
+
   <!-- Banner (clickable) -->
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
     <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/banner.png" width="250">
