@@ -82,6 +82,17 @@
     <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white">
   </a>
 
+  <!-- Banner (clickable) -->
+<a href="https://discord.gg/t4KwV7uv" target="_blank">
+  <img src="https://raw.githubusercontent.com/oxeeyz/oxeeyz/main/nazha.png" width="250">
+</a>
+
+<!-- Gold bordered text badge -->
+<br>
+<a href="https://discord.gg/t4KwV7uv" target="_blank">
+  <img src="https://img.shields.io/badge/Click_to_join_Nazha's_Corner-FFD700?style=for-the-badge&logo=discord&logoColor=white">
+</a>
+
  
 
 </div>
