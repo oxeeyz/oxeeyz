@@ -68,7 +68,7 @@
 </div>
 
 ---
-<div> __𝗣𝗥𝗢𝗝𝗘𝗖𝗧𝗦__ </div>
+<div>         PROJECTS            </div>
 
   <!-- Banner (clickable) -->
   <a href="https://discord.gg/JjFWJqKnCG" target="_blank">
