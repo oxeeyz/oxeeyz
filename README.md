@@ -80,7 +80,7 @@
        width="400">
   <!-- Red badge on top -->
   <a href="https://discord.gg/cjAVK7qVwx" target="_blank">
-    <img src="https://img.shields.io/badge/Click_Banner_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white"
+    <img src="https://img.shields.io/badge/Click_To_Join_RazzZ_Roleplay-red?style=for-the-badge&logo=discord&logoColor=white"
          style="position:absolute; top:10px; left:50%; transform:translateX(-50%);">
   </a>
 </div>
