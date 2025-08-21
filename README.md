@@ -98,3 +98,15 @@
          style="position:absolute; top:10px; left:50%; transform:translateX(-50%);">
   </a>
 </div>
+
+<!-- Second banner with red badge -->
+<div style="text-align:center; position:relative; display:inline-block;">
+  <img src="https://cdn.discordapp.com/attachments/1187731621328195604/1407904861269266543/Futuristic_Logo_with_Neon_Glow_20250820_080333_0000.png?ex=68a7cd14&is=68a67b94&hm=f116234c6ef08165bfb056942fa6b323c6320d4baea28813aef7076255ca37ce&" 
+       alt="Image Description" 
+       width="400">
+  <!-- Red badge on top -->
+  <a href="https://discord.gg/CZMcHAWF5C" target="_blank">
+    <img src="https://img.shields.io/badge/Click_To_Join_ECH-FF0000?style=for-the-badge&logo=discord&logoColor=white"
+         style="position:absolute; top:10px; left:50%; transform:translateX(-50%);">
+  </a>
+</div>
