@@ -93,7 +93,7 @@
        alt="Image Description" 
        width="400">
   <!-- Gold badge on top -->
-  <a href="https://discord.gg/t4KwV7uv" target="_blank">
+  <a href="https://discord.gg/7xxuB6rB6X" target="_blank">
     <img src="https://img.shields.io/badge/Click_to_join_Nazha%27s_Corner-FFD700?style=for-the-badge&logo=discord&logoColor=white"
          style="position:absolute; top:10px; left:50%; transform:translateX(-50%);">
   </a>
