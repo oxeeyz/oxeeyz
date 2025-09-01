@@ -22,7 +22,7 @@
 ---
 
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
-  <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/💬 Discord-oxeey_z-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/💬 Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=blue"></a>
 </p>
 
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hafeeeiihapee@gmail.com) 
