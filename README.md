@@ -20,8 +20,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ---
----
-
 ### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
   <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/💬 Discord-oxeey_z-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
