@@ -6,7 +6,7 @@
 ---
 
 ### 🚀 About Me  
-🔥 Hi, I'm **Oxeeey**, a passionate Developer**  
+👋 Heyy, I'm **Oxeeey**, a passionate Developer**  
 👨‍💻 15 y/o self-taught developer **  
 ⚡ building **Discord bots, ai projects,systems.etc**  
 🔨 Skilled in **Node.js, Python, TypeScript, PAWN**  
