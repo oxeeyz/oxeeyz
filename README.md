@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="https://i.postimg.cc/nLpLpPqn/da1f8390c62e88f0c77618dfd095bfaf.gif](https://i.postimg.cc/c1pXxpLq/ezgif-3964e248c919db.gif" width="800" alt="BMW M5 GIF"/>
-</p>
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ffff&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Oxeeey+Is+Here+%7C+Developer" alt="Typing SVG" />
-</p>
+<p align="center">  
+  <img src="https://cdn.discordapp.com/attachments/1238832332975112224/1421122166694351082/ezgif-3964e248c919db.gif?ex=68d7e2a7&is=68d69127&hm=4c31655b8d904496c4143df3166954ea9df79b533cc900356f587f4779a331c6&" width="800" alt="BMW M5 GIF"/>  
+</p>  
+<!-- Typing Animation -->  
+<p align="center">  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ffff&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Oxeeey+Is+Here+%7C+Developer" alt="Typing SVG" />  
 
 ---
 
