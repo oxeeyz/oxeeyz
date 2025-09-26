@@ -1,5 +1,10 @@
 <!-- Animated Wave Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=150&section=header&text=Oxeeey i%20I'm%20s here%20🖤&fontSize=40&fontColor=00fff" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=150&section=header&text=Oxeeey%20I'm%20s%20here%20🖤&fontSize=40&fontColor=00ffff" width="100%"/>
+
+<!-- BMW M5 Image -->
+<p align="center">
+  <img src="https://i.ibb.co/mzV0cRb/bmw-m5.png" width="600"/>
+</p>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00fff&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+%F0%9F%91%8B;Developer" alt="Typing SVG" />
