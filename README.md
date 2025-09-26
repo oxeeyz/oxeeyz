@@ -11,7 +11,7 @@
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+<img align="right" src="https://cdn.discordapp.com/attachments/1238832332975112224/1421117365957038172/9070324cdfc07c68d60eed0c39e77573.gif?ex=68d7de2f&is=68d68caf&hm=e404366819db4cc5984a9e6cd70bfb99b16fbd413361a5c1f02856410dc16aa7&" width="240" />
 
 -  **15 y/o developer** from Kerala, India  
 -  Building bots, infra tools, and backend systems  
