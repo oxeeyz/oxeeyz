@@ -1,9 +1,9 @@
 <!-- Animated Wave Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=150&section=header&text=Oxeeey%20I'm%20s%20here%20🖤&fontSize=40&fontColor=00ffff" width="100%"/>
 
-<!-- BMW M5 Image -->
+<!-- BMW M5 Image (16:9 ratio) -->
 <p align="center">
-  <img src="https://i.postimg.cc/ZqNjknTn/ea247842688aea0ffc50c8ef47c99b61.jpg"width="600"/>
+  <img src="https://i.postimg.cc/gnk5K2m6/bmw-m5.png" width="800" style="aspect-ratio:16/9; object-fit:cover;"/>
 </p>
 
 <div align="center">
