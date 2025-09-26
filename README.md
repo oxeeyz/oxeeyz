@@ -1,7 +1,8 @@
-<!-- BMW M5 Header (no Capsule) -->
+<!-- BMW M5 Image (16:9 ratio) -->
 <p align="center">
-  <img src="https://i.postimg.cc/YOUR_DIRECT_IMAGE.png" width="100%" style="aspect-ratio:16/9; object-fit:cover;"/>
+  <img src="https://i.postimg.cc/gnk5K2m6/bmw-m5.png" width="800" style="aspect-ratio:16/9; object-fit:cover;"/>
 </p>
+
 ---
 
 ## About Me
