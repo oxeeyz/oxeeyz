@@ -1,15 +1,7 @@
-<div style="position: relative; width: 100%; text-align: center;">
-  <!-- Wave Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ffff&height=150&section=header&text=Oxeeey%20I'm%20s%20here%20🖤&fontSize=40&fontColor=00ffff" width="100%"/>
-
-  <!-- BMW M5 overlay -->
-  <img src="https://i.postimg.cc/gnk5K2m6/bmw-m5.png" style="position: absolute; bottom: 0; left: 50%; transform: translateX(-50%); width: 400px; aspect-ratio:16/9; object-fit:cover;"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00fff&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey+%F0%9F%91%8B;Developer" alt="Typing SVG" />
-</div>
-
+<!-- BMW M5 Header (no Capsule) -->
+<p align="center">
+  <img src="https://i.postimg.cc/YOUR_DIRECT_IMAGE.png" width="100%" style="aspect-ratio:16/9; object-fit:cover;"/>
+</p>
 ---
 
 ## About Me
