@@ -1,4 +1,11 @@
-
+<!-- BMW M5 GIF (16:9 ratio) -->
+<p align="center">
+  <img src="https://cdn.discordapp.com/attachments/1238832332975112224/1421119073567379570/da1f8390c62e88f0c77618dfd095bfaf.gif" 
+       width="800" 
+       height="450" 
+       style="object-fit:cover; border-radius:8px;" 
+       alt="BMW M5 GIF"/>
+</p>
 <!-- Typing Animation -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00ffff&center=true&vCenter=true&multiline=false&width=700&height=60&lines=Oxeeey+Is+Here+%7C+Developer" alt="Typing SVG" />
