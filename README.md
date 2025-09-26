@@ -1,39 +1,47 @@
 <div align="center">
-
-# 👋  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7F7&center=true&vCenter=true&width=435&lines=OxeeeyZm+;Developer)](https://git.io/typing-svg)
-<img src="https://cdn.discordapp.com/emojis/1347091645279240253.gif" width="40" />
----
-
-### 🚀 About Me  
-👋 Heyy, I'm **Oxeeey**, a passionate Developer**  
-👨‍💻 15 y/o self-taught developer **  
-⚡ building **Discord bots, ai projects,systems.etc**  
-🔨 Skilled in **Node.js, Python, TypeScript, PAWN**  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00FF9F&center=true&vCenter=true&multiline=true&width=600&height=80&lines=Hey%2C+I'm+Razi+%F0%9F%91%8B;Backend+Dev+%7C+Ethical+Hacker+in+Training;" alt="Typing SVG" />
+</div>
 
 ---
 
-### 🛠 Stack 
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+## About Me
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="240" />
+
+-  **15 y/o developer** from Kerala, India  
+-  Building bots, infra tools, and backend systems  
+-  Developer/Owner of [Nazha](https://nazha.netlify.app) – simple Music Bot for Members Free To Use  
+-  Self-taught in Node.js, Pawn , TypeScript, Python  
+-  Passionate about ethical hacking, scripting & automation  
+-  Currently learning reverse engineering & buffer overflows
 
 ---
 
-### <img src="https://cdn.discordapp.com/emojis/923782059762282526.gif" width="30" height="30" /> Let's Reach
-  <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/💬 Discord-Message-5865F2?style=for-the-badge&logo=discord&logoColor=blue"></a>
+##  Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,nodejs,ts,java,py,bash,mysql,linux,docker,git,html,tailwind,vscode,php,git,androidstudio,cmake,kali,ubuntu,react,sublime,html,css,js,yarn,svg,npm,nginx,gcp,cloudflare,aws,arch,c,cs,discord,firebase,github,laravel,replit,rust,sqlite,regex,postgres,maven,md" />
 </p>
 
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail)](mailto:hafeeeiihapee@gmail.com) 
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=pink)](https://instagram.com/hafeeey__)
+---
 
 
+## GitHub Stats
 
-
-
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raziscofield&show_icons=true&theme=tokyonight&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raziscofield&layout=compact&theme=tokyonight" height="150" />
+</p>
 
 ---
-  </a>
-</div>
+
+##  Let's Connect
+
+<p align="center">
+  <a href="https://nazha.netlify.app"><img src="https://img.shields.io/badge/🌐 Website-121212?style=for-the-badge&logo=firefox&logoColor=white"></a>
+  <a href="mailto:rajihraju11@gmail.com"><img src="https://img.shields.io/badge/📧 Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://discord.com/users/875402851986325504"><img src="https://img.shields.io/badge/💬 Discord-raziscofield-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+</p>
+
+---
+
