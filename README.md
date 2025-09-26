@@ -3,7 +3,7 @@
 
 <!-- BMW M5 Image -->
 <p align="center">
-  <img src="https://i.ibb.co/mzV0cRb/bmw-m5.png" width="600"/>
+  <img src="https://postimg.cc/1g9Dw9V1" width="600"/>
 </p>
 
 <div align="center">
