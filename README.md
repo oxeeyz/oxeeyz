@@ -39,7 +39,7 @@
 ## Let's Connect
 
 <p align="center">
-  <a href="https://instagram.com/hafeeey__"><img src="https://img.shields.io/badge/ hafeeey-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://instagram.com/whoisoxeeey"><img src="https://img.shields.io/badge/ see-E1306C?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:hafeeeiihapee@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://discord.com/users/1050593287590920232"><img src="https://img.shields.io/badge/Oxeeey-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
 </p>
