@@ -16,7 +16,7 @@
 +  Open-source enthusiast — builds tools for others to use  
 +  Node.js · TypeScript · Python  
 +  Interested in security research & automation
-+  Creator Of [NASSIFY](https://dsc.gg/nassify)
++  Creator Of [NASSIFY](https://nassify.vercel.app)
 ---
 
 ##  Tech Stack
