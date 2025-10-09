@@ -11,11 +11,12 @@
 
 <img align="right" src="https://cdn.discordapp.com/attachments/1238832332975112224/1421117365957038172/9070324cdfc07c68d60eed0c39e77573.gif?ex=68d7de2f&is=68d68caf&hm=e404366819db4cc5984a9e6cd70bfb99b16fbd413361a5c1f02856410dc16aa7&" width="240" />
 
--  **Developer / Engineer**  
--  Bots · Infrastructure · Backends  
--  Open-source enthusiast — builds tools for others to use  
--  Node.js · TypeScript · Python  
--  Interested in security research & automation
++  **Developer / Engineer**  
++  Bots · Infrastructure · Backends  
++  Open-source enthusiast — builds tools for others to use  
++  Node.js · TypeScript · Python  
++  Interested in security research & automation
++  Creator Of [NASSIFY](https://dsc.ggnassify)
 ---
 
 ##  Tech Stack
